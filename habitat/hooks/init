@@ -1,0 +1,3 @@
+cd "{{pkg.path}}/bin"
+
+./LGPO.exe /g .
