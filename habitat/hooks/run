@@ -1,3 +1,3 @@
 cd "{{pkg.path}}/bin"
 
-Start-Process "{{pkgPathFor "thelunaticscripter/LGPO"}}\bin\LGPO.exe" /g .
+Start-Process "{{pkgPathFor "thelunaticscripter/lgpo"}}\bin\LGPO.exe" /g .
